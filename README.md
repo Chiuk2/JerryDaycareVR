@@ -4,4 +4,4 @@ This project was inspired by one of the programming test questions from Squancht
 Images from Rick and Morty are protected by copyrights, trademarks, and other intellectual property rights which are owned and controlled by The Cartoon Network ("TCN") or by other parties that have licensed their material to TCN.
 
 
-Additional free assets were downloaded from the Unity Asset store, and are made by their perspective creators.
+Additional free assets were downloaded from the Unity Asset store, and are made by their respective creators.
